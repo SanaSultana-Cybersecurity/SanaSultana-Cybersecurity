@@ -38,23 +38,15 @@ I enjoy investigating security events, analysing logs, identifying suspicious ac
 
 Hands-on SOC lab focused on monitoring Windows security events and investigating authentication activity using Splunk.
 
-### 2. Linux SSH Attack Detection & Investigation
 
-Analysed Linux authentication logs to identify failed and successful SSH login activity and investigate suspicious login attempts.
-
-### 3. Brute Force Attack Detection using Splunk
-
-Created Splunk searches and alerts to identify repeated failed authentication attempts that could indicate a brute-force attack.
-
-### 4. Phishing Email Investigation & IOC Analysis
+### 2. Phishing Email Investigation & IOC Analysis
 
 Investigated suspicious emails, analysed indicators of compromise, and documented the investigation process from a SOC analyst perspective.
 
-### 5. MITRE ATT&CK-Based Security Investigation
+### 3.Microsoft Sentinel – Windows Security Monitoring & Brute-Force Detection
 
-Practised mapping attack scenarios to MITRE ATT&CK tactics and techniques and identifying the logs and evidence a SOC analyst would investigate.
+Hands-on SOC L1 project using Microsoft Sentinel to monitor Windows security events and detect repeated failed login attempts.
 
----
 
 ## 📚 Currently Learning
 
@@ -67,7 +59,6 @@ Practised mapping attack scenarios to MITRE ATT&CK tactics and techniques and id
 * MITRE ATT&CK
 * Network Security
 
----
 
 ## 🎯 Career Goal
 
